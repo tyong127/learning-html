@@ -1,5 +1,4 @@
 h1 {
-    border: 1px solid red;
     font-family: Roboto;
     font-style: normal;
     font-weight: normal;
@@ -10,6 +9,10 @@ h1 {
     text-align: center;
     color: #AAECA9;
     background: white;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    padding: left 6px; ;
+    padding: right 6px; ;
 }
 
 body {
@@ -27,4 +30,8 @@ p {
     color: #AAECA9;
     background: white;
     width: 50%;
+    padding-top: 19px;
+    padding-bottom: 27px;
+    padding-left: 14px;
+    padding-right: 15px;
 }
