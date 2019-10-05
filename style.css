@@ -9,7 +9,6 @@ h1 {
     font-size: 38px;
     line-height: 45px;
     /* identical to box height */
-    width: 50%;
     text-align: center;
     color: #AAECA9;
     background: white;
@@ -35,10 +34,12 @@ p {
 
     color: #AAECA9;
     background: white;
-    width: 50%;
     padding-top: 19px;
     padding-bottom: 27px;
     padding-left: 14px;
     padding-right: 15px;
     margin-bottom: 25px;
+}
+div {
+    width: 50%;
 }
