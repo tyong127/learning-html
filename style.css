@@ -1,28 +1,30 @@
 h1 {
     border: 1px solid red;
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 38px;
-line-height: 45px;
-/* identical to box height */
-width: 50%;
-text-align: center;
-color: #AAECA9;
-background: white;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 45px;
+    /* identical to box height */
+    width: 50%;
+    text-align: center;
+    color: #AAECA9;
+    background: white;
 }
+
 body {
     background: #AAECA9;
 }
+
 p {
     font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 24px;
-line-height: 28px;
-text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
 
-color: #AAECA9;
-background: white;
-width: 50%;
+    color: #AAECA9;
+    background: white;
+    width: 50%;
 }
