@@ -42,7 +42,16 @@ p {
     padding-left: 14px;
     padding-right: 15px;
     margin-bottom: 25px;
+    
+    transition: all .5s;
+    box-shadow: 3px 3px  #515151;
 }
+
+p:hover {
+    box-shadow: 1px 1px  #515151;
+}
+
+
 div {
     width: 50%;
 }
