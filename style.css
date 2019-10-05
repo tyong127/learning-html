@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 h1 {
     font-family: Roboto;
     font-style: normal;
@@ -11,8 +15,10 @@ h1 {
     background: white;
     padding-top: 15px;
     padding-bottom: 13px;
-    padding: left 6px; ;
-    padding: right 6px; ;
+    padding: left 6px;
+    padding: right 6px;
+    margin-bottom: 10px;
+
 }
 
 body {
@@ -34,4 +40,5 @@ p {
     padding-bottom: 27px;
     padding-left: 14px;
     padding-right: 15px;
+    margin-bottom: 25px;
 }
