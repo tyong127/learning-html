@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 h1 {
@@ -42,13 +42,13 @@ p {
     padding-left: 14px;
     padding-right: 15px;
     margin-bottom: 25px;
-    
-    transition: all .5s;
-    box-shadow: 3px 3px  #515151;
+
+    transition: all 0s;
+    box-shadow: 2px 2px #515151;
 }
 
 p:hover {
-    box-shadow: 1px 1px  #515151;
+    box-shadow: 3px 3px #515151;
 }
 
 
