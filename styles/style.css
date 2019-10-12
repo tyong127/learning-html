@@ -60,3 +60,7 @@ img {
     margin-bottom: 25px;
     margin-left: 24px;
 }
+
+.text {
+    border: 1px solid red;
+    }
