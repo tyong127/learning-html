@@ -49,7 +49,7 @@ body {
 }
 
 p:hover {
-    box-shadow: 3px 3px #515151;
+    box-shadow: 3px 3px #515151;    
 }
 
 
@@ -74,6 +74,7 @@ img {
     /* каждое изображение в тэге с классом images */
 margin: 0;
 margin-bottom: 15px;
+transition: all 5s;
 }
 .images img:nth-child(1) {
     width: 46%;;
@@ -95,4 +96,7 @@ margin-bottom: 15px;
 }
 .images img:nth-child(7) {
     width: 30.7%;
+}
+.images img:hover {
+width: 100%;
 }
